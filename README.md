@@ -1,4 +1,6 @@
 # RetailPulse AI — Computer Vision Queue & Shelf Analytics
+*Team name-Codastra.X
+TEAM CODE- 68f678eb
 THIS PROJECT WAS POSSIBLE BECAUSE OF 1.MOHAMMED RAIYAN , 2. NIHAL.N , 3. PAVAN KUMAR S
 An edge-ready computer vision solution for real-time queue length tracking, customer density monitoring, and shelf stock management in retail environments.
 
